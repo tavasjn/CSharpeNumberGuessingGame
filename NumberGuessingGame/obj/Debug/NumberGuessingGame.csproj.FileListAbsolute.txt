@@ -1,0 +1,6 @@
+/Users/admin/Desktop/C#/NumberGuessingGame/NumberGuessingGame/bin/Debug/NumberGuessingGame.exe
+/Users/admin/Desktop/C#/NumberGuessingGame/NumberGuessingGame/bin/Debug/NumberGuessingGame.pdb
+/Users/admin/Desktop/C#/NumberGuessingGame/NumberGuessingGame/obj/Debug/NumberGuessingGame.csprojAssemblyReference.cache
+/Users/admin/Desktop/C#/NumberGuessingGame/NumberGuessingGame/obj/Debug/NumberGuessingGame.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/C#/NumberGuessingGame/NumberGuessingGame/obj/Debug/NumberGuessingGame.exe
+/Users/admin/Desktop/C#/NumberGuessingGame/NumberGuessingGame/obj/Debug/NumberGuessingGame.pdb
